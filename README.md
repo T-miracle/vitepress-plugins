@@ -1,5 +1,7 @@
 # You might be interested in these vitepress plugins
 
+EN | [中文](README_zh.md)
+
 | plugin                                                                                                    | description                                                         |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [vitepress-plugin-comment-with-giscus](https://github.com/T-miracle/vitepress-plugin-comment-with-giscus) | A vitepress comment area plugin based on `giscus`                   |
